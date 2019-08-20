@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="exercício-de-mineração-de-dados">Exercício de Mineração de Dados</h1>
 <p>Realiza o tratamento de dados da cotação do dolar. É usado o Python como linguagem de programação e o Pandas como ferramenta de gerenciamento de dados</p>
